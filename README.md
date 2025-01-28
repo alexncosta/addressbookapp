@@ -60,7 +60,7 @@ Paul Robinson
 
 <b>At last, will be displayed the following result:</b><br />
 ```
-Number of Males: 3<br />
-The oldest person: Wes Jackson<br />
+Number of Males: 3
+The oldest person: Wes Jackson
 The age difference: 2862
 ```
